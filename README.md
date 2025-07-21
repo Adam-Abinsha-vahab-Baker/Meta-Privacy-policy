@@ -1,0 +1,1 @@
+This is important for activating and making your Meta App live.
